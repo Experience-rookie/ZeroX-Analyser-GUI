@@ -1,4 +1,4 @@
-# ZeroX Security Scanner
+# ZeroX-Analyser - GUI
 
 A comprehensive security scanning tool with a modern web interface for detecting vulnerabilities in source code, web applications, and systems.
 
